@@ -1,2 +1,2 @@
 # VLSI-System-Design
-This is the assignments of "VLSI System Design" course at NTHU.
+This is the assignments of the course "VLSI System Design".
